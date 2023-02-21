@@ -17,3 +17,21 @@ $_.config.GuestFullName
 
 
 RWN_EX0506RBKA_REP_LTR_01 
+
+
+
+
+git init
+git log
+git status
+code .\\ file
+git add .\filename
+git commit -m " saf" .\filename 
+git remote -v
+git remote add origin 
+git push -u origin 
+
+
+root
+		
+ [AMS-TRESX01_LocalDisk1] AMSTR-PPL05-N/AMSTR-PPL05-N.vmdk
